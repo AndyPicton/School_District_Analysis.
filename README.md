@@ -1,11 +1,12 @@
 # School_District_Analysis.
 ## Overview of the school district analysis: 
-Explain the purpose of this analysis.
+After helping Maria build data frames to analyze data for 15 schools and almost 40,000 students, the school board found evidence of academic dishonesty from the Thomas High School 9th grade class in reading and math. I was tasked with replacing the math and reading scores for Thomas High School then reanalyzing the districts results.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
