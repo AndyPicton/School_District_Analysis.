@@ -11,14 +11,12 @@ After helping Maria build data frames to analyze data for 15 schools and almost 
 
 The district summary was not drastically affected by the changes made. The top image shows the data that includes 9th grade Thomas High School scores and the bottom shows the updated data summary.
 
-How is the school summary affected?
 ### School Summary
 ![image](https://user-images.githubusercontent.com/99369565/159173643-c80dc9be-87eb-4227-a765-8fc28d4e12e8.png)
 ![image](https://user-images.githubusercontent.com/99369565/159173753-9928bb7c-e384-4762-bf64-c0679660baad.png)
 
 Replacing the Thomas High School 9th grade class did affect the schools rankings by quite a lot. The original data (top picture) shows Thomas High School having all % passing in the 90s for reading and math but the manipulated data (bottom picture) shows all % passing in the 60s.
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### Math Scores
 ![image](https://user-images.githubusercontent.com/99369565/159174078-fe3a87d8-da5a-4eb2-acf6-20ba4d87d725.png)
 ![image](https://user-images.githubusercontent.com/99369565/159174108-004ba75a-9eaa-48c5-8293-48581bd05e58.png)
@@ -49,7 +47,9 @@ Modifying the 9th grade Thomas High School students did not move the school into
 
 Replacing the 9th grade data had no affect on the school type.
 
-
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
+Replacing the 9th grade Thomas High School reading and math scores with NaNs did not have a huge affect on the data set but here are four changes:
+1. Thomas High Schools average math school decreased by .067
+2. Thomas High Schools average reading school increased by .047
+3. % passing math and reading decreased by 26.36 and 27.65 respectably
+4. % overall passing decreased by 25.87
